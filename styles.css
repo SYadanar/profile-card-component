@@ -46,5 +46,14 @@ body{
 	right: -20%;
 }
 
+.card{
+	/*width: 450px;*/
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+}
+
 .attribution { font-size: 12px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
