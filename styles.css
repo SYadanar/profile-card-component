@@ -48,6 +48,20 @@ body{
 
 .card{
 	/*width: 450px;*/
+	border-radius: 15px;
+	overflow: hidden;
+}
+
+.victor-img{
+	margin-top: -15%;
+}
+
+.victor-img .border{
+	border-color: white !important;
+}
+
+.card-footer small{
+	font-size: 12px;
 }
 
 footer{
