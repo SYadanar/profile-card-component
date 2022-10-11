@@ -30,8 +30,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [URL]()
-- Live Site URL: [URL]()
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/profile-card-component-using-bootstrap5-ziXOhTXrG4)
+- Live Site URL: [URL](https://profile-card-component-syadanar.vercel.app/)
 
 ## My process
 
