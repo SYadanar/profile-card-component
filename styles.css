@@ -42,18 +42,18 @@ body{
 }
 
 .bottom-bg-pattern{
-	bottom: -90%;
+	bottom: -100%;
 	right: -20%;
 }
 
 .card{
-	/*width: 450px;*/
+	width: 350px;
 	border-radius: 15px;
 	overflow: hidden;
 }
 
 .victor-img{
-	margin-top: -15%;
+	margin-top: -50px;
 }
 
 .victor-img .border{
@@ -71,3 +71,31 @@ footer{
 
 .attribution { font-size: 12px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+
+@media only screen and (max-width: 768px){
+	.top-bg-pattern{
+		width: 100%;
+	}
+
+	.bottom-bg-pattern{
+		width: 100%;
+	}
+}
+
+
+@media only screen and (max-width: 576px){
+	.card{
+		width: 90%;
+	}
+
+	.top-bg-pattern{
+		top: -30%;
+		left: -45%;
+	}
+
+	.bottom-bg-pattern{
+		bottom: -25%;
+		right: -45%;
+	}
+}
